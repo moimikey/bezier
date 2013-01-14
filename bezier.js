@@ -8,7 +8,7 @@ var transitions = {
 	/**
 	 * @author Robert Penner
 	 *
-	 * Ease In
+	 * In
 	 */
 	easInQuad  : 'cubic-bezier(0.550, 0.085, 0.680, 0.530)',
 	easeInCubic: 'cubic-bezier(0.550, 0.055, 0.675, 0.190)',
